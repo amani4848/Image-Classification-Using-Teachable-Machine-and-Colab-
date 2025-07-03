@@ -26,13 +26,12 @@ The goal is to leverage machine learning techniques to accurately identify and c
    - Predict the image class and show confidence level
 
 **Files Included**
-- keras_model.h5: Trained image classification model
-- labels.txt: Class names
-- Image_Recognition_Task.ipynb: Python notebook for running predictions
+- `keras_model.h5`: Trained image classification model
+- `labels.txt`: Class names
+- `Image_Recognition_Task.ipynb`: Python notebook for running predictions
 
 **Model Screenshot**
 ![Test Model](https://github.com/amani4848/Teachable_Machine_Image_Classifier/blob/2cdb933388c37f184ef8b6423da1021c7abf86ff/Test_Model.png)
-
-
+--
 **Colab Result**
 ![Colab Result](https://github.com/amani4848/Teachable_Machine_Image_Classifier/blob/2cdb933388c37f184ef8b6423da1021c7abf86ff/Colab_result.png)
