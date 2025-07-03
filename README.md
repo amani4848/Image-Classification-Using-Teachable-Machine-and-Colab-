@@ -31,6 +31,6 @@ The goal is to leverage machine learning techniques to accurately identify and c
 
 **Model Screenshot**
 ![Test Model](https://github.com/amani4848/Teachable_Machine_Image_Classifier/blob/2cdb933388c37f184ef8b6423da1021c7abf86ff/Test_Model.png)
-
+``
 **Colab Result**
 ![Colab Result](https://github.com/amani4848/Teachable_Machine_Image_Classifier/blob/2cdb933388c37f184ef8b6423da1021c7abf86ff/Colab_result.png)
