@@ -6,6 +6,7 @@ This project shows how to create a image classification model using Google Teach
 To develop an image classification model capable of categorizing images into two distinct classes:
 - Car
 - Racing Bike
+
 The goal is to leverage machine learning techniques to accurately identify and classify these categories based on visual features.
 
 **Tools Used**
@@ -31,6 +32,7 @@ The goal is to leverage machine learning techniques to accurately identify and c
 
 **Model Screenshot**
 ![Test Model](https://github.com/amani4848/Teachable_Machine_Image_Classifier/blob/2cdb933388c37f184ef8b6423da1021c7abf86ff/Test_Model.png)
-``
+
+
 **Colab Result**
 ![Colab Result](https://github.com/amani4848/Teachable_Machine_Image_Classifier/blob/2cdb933388c37f184ef8b6423da1021c7abf86ff/Colab_result.png)
